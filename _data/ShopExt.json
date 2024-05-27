@@ -395,8 +395,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically and sexually attracted to people of his own gender.",
       "stats": [],
@@ -417,8 +417,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically and sexually attracted to people regardless of gender.",
       "stats": [],
@@ -439,8 +439,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is uninterested in sexual or romantic engagements.",
       "stats": [],
@@ -4487,8 +4487,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically and sexually attracted to people of the opposite gender.",
       "stats": [],
@@ -4509,8 +4509,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
       "stats": [],
@@ -4531,8 +4531,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.",
       "stats": [],
@@ -4553,8 +4553,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
       "stats": [],
@@ -4895,7 +4895,7 @@
         "stats": [
           "+60.00 Mass",
           "+0% Flammability",
-          "+$3790 Market value",
+          "+$9400 Market value",
           "-100.0C Minimum comfortable temperature",
           "+250.0C Maximum comfortable temperature",
           "+0% Psychic sensitivity",
@@ -4919,7 +4919,7 @@
       },
       "description": "\"Overlord\" is a kurin mechanoid of class Kurin Republic Titan, created for heavy combat support and assaulting reinforced objects.",
       "defName": "Overlord",
-      "enabled": true,
+      "enabled": false,
       "name": "overlord",
       "price": 6317
     },
@@ -4952,7 +4952,7 @@
       },
       "description": "\"Peacekeeper\" is a kurin mechanoid of class Kurin Republic Bouncer/Carver/Erecter, created for various tasks which depend on what kind certain peacekeeper has.\n\nPeacekeeper bouncers are combatants, peacekeeper carvers are rescue workers, peacekeeper erecters are builders.",
       "defName": "Peacekeeper",
-      "enabled": true,
+      "enabled": false,
       "name": "peacekeeper",
       "price": 2917
     },
@@ -4985,7 +4985,7 @@
       },
       "description": "\"Smarty\" is a kurin mechanoid of class Kurin Republic Smart Servant, created for various tasks which depend on what modules certain smarty has.",
       "defName": "Smarty",
-      "enabled": true,
+      "enabled": false,
       "name": "smarty",
       "price": 1583
     },
